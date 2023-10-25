@@ -1,4 +1,4 @@
-# # Entendendo a análise de vibração para manuntenção preditiva de elevadores
+# # Entendendo o valor de vibração para manuntenção preditiva de elevadores
 
 ## Visão Geral
 
