@@ -20,7 +20,7 @@ Vamos analisar os dados o conjunto de dados sobre de uma variedade de sensores I
 
 ## O Processo
 
-O primeiro passo do projeto foi adquirir os dados. Utilizamos os dados do portal Kaagle, carregando-o no Google Colab, para a exploração e análise dos dados utilizando a linguagem de programação Python e suas bibliotecas, como Pandas, Matplotlib, Tensorflow e Scikit-Learn. Foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de LSTM no conjunto de dados sequenciais no formato de série temporais.
+O primeiro passo do projeto foi adquirir os dados. Utilizamos os dados do portal Kaagle, carregando-o no Google Colab, para a exploração e análise dos dados utilizando a linguagem de programação Python e suas bibliotecas, como Pandas, Matplotlib, Tensorflow e Scikit-Learn. Foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de LSTM no conjunto de dados de série temporais para prever o valor absoluto da vibração.
 
 ## Resultados
 
