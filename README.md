@@ -1,4 +1,4 @@
-# # Entendendo o valor da vibração para manuntenção preditiva de elevadores
+# # Elevadores mais seguros e eficientes através da análise da vibração
 
 ## Visão Geral
 
